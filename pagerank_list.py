@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+#pagerank is from Corey Goldberg's post:
+#http://coreygoldberg.blogspot.com/2010/01/python-lookup-google-pagerank-score.html
+#The code on google code:
+#http://code.google.com/p/corey-projects/source/browse/trunk/python2/pagerank.py
+
 import pagerank
 import sys
 import json

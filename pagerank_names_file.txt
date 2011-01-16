@@ -1,0 +1,18 @@
+{
+        "David Burns":"http://www.theautomatedtester.co.uk/", 
+        "Marlena" : "http://marlenacompton.com", 
+        "Lisa Crispin": "http://lisacrispin.com/wordpress/2011/01/12/my-first-weeknight-tester-session/",
+        "Trish" : "http://ubertest.hogfish.net/",
+        "Chris McMahon" : "http://chrismcmahonsblog.blogspot.com",
+        "Google":"http://google.com",
+        "Lisa Crispin" : "http://lisacrispin.com/wordpress/",
+        "James Bach" : "http://www.satisfice.com/blog/",
+        "Sauce Labs Blog": "http://saucelabs.com/blog/",
+        "Corey Goldberg": "http://coreygoldberg.blogspot.com",
+        "Garance Dore": "http://www.garancedore.fr/",
+        "Sartorialist": "http://thesartorialist.blogspot.com/",
+        "Isaac Trueet": "http://publicint.blogspot.com/2011/01/webgl-on-cr-48.html",
+        "Eric Jacobson" : "http://www.testthisblog.com/",
+        "Lanette": "http://blog.testyredhead.com/"
+}
+
