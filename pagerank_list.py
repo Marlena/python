@@ -13,9 +13,9 @@ pages_dict = json_data
 pages = pages_dict.keys()
 
 def printSortedPageRankList( pages ):
-	for page in sorted(pages ):
-		url = pages_dict[page]
-		rank = pagerank.get_pagerank(url)
-		print page + "'s pagerank is: " + rank
+        for page in sorted(pages ):
+                url = pages_dict[page]
+                rank = pagerank.get_pagerank(url)
+                print page + "'s pagerank is: " + rank
 
 printSortedPageRankList( pages )
