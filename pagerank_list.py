@@ -8,7 +8,6 @@ file = sys.argv[1]
 file_data = open(file, "r").read()
 json_data = json.loads(file_data)
 pages_dict = json_data
-#pages_dict = {'Marlena' : 'http://marlenacompton.com', 'Chris McMahon' : 'http://chrismcmahonsblog.blogspot.com/', 'Google':'http://google.com', "Lisa Crispin" : 'http://lisacrispin.com/wordpress/', 'James Bach' : 'http://www.satisfice.com/blog/', 'Sauce Labs Blog': 'http://saucelabs.com/blog/', 'Corey Goldberg': 'http://coreygoldberg.blogspot.com', "David Burns":"http://www.theautomatedtester.co.uk/"}
 
 pages = pages_dict.keys()
 
