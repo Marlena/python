@@ -10,4 +10,4 @@ def printFactorial(x):
     print str(factorial(x) )
 
 
-printFactorial(5)
+#printFactorial()
