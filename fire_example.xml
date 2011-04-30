@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresults total_results="280">
+  <addon id="1843">
+  <name>Firebug</name>
+  <type id="1">Extension</type>
+  <guid>firebug@software.joehewitt.com</guid>
+  <version>1.7.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="9265">
+      <name>Joe Hewitt</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/9265/?src=api</link>
+    </author><author id="2226426">
+      <name>johnjbarton</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/2226426/?src=api</link>
+    </author><author id="95117">
+      <name>robcee</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/95117/?src=api</link>
+    </author><author id="4957771">
+      <name>FirebugWorkingGroup</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/4957771/?src=api</link>
+    </author><author id="857086">
+      <name>Jan Odvarko</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/857086/?src=api</link>
+    </author>      </authors>
+  <summary>Firebug integrates with Firefox to put a wealth of development tools at your fingertips while you browse. You can edit, debug, and monitor CSS, HTML, and JavaScript live in any web page...
+
+This is our production release. For Firefox 4.0b, see below.</summary>
+
+  <description>&lt;strong&gt;
+Firefox 4.0 users: install Firebug 1.7
+Firefox 3.6 users: install &lt;a href="http://outgoing.mozilla.org/v1/18178703a8e05092fda2bc4b50303afd30cf66b8/https%3A//addons.mozilla.org/en-us/firefox/addon/firebug/versions/1.6.2" rel="nofollow"&gt;Firebug 1.6&lt;/a&gt;
+&lt;/strong&gt;
+
+Firebug integrates with Firefox to put a wealth of development tools at your fingertips while you browse. You can edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.
+
+Visit the Firebug website for documentation, screen shots, and discussion forums: &lt;a href="http://outgoing.mozilla.org/v1/55ffa71b78949ac50e502727b45ad0e0690cec98/http%3A//getfirebug.com" rel="nofollow"&gt;http://getfirebug.com&lt;/a&gt;
+
+Firebug for older and for beta versions of Firefox is available from &lt;a href="http://outgoing.mozilla.org/v1/3e6a9739c6e8775a118c9c127abeb725ee433678/http%3A//getfirebug.com/releases/firebug" rel="nofollow"&gt;http://getfirebug.com/releases/firebug&lt;/a&gt;</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/1843-32.png?modified=1300780225</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b12</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52710.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52710.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>Command line and its auto-completion.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52711.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52711.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>Console panel with an example error logs.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52712.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52712.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>CSS panel with inline editor.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52713.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52713.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>DOM panel displays structure of the current page.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52714.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52714.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>HTML panel shows markup of the current page.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52715.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52715.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>Layout panel reveals layout of selected elements.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52716.png?src=api&amp;modified=1295279900
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52716.png?src=api&amp;modified=1295279900
+      </thumbnail><caption>Net panel monitors HTTP communication.</caption></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/52/52717.png?src=api&amp;modified=1295279901
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/52/52717.png?src=api&amp;modified=1295279901
+      </thumbnail><caption>Script panel allows to explore and debug JavaScript on the current page.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/firebug/?src=api</learnmore><install hash="sha256:9e1929c5fed31597d15f4c8f7e90be5395a2bfc4529b6a672bc26cfe551c0865" os="ALL" size="1318912">https://addons.allizom.org/firefox/downloads/file/114839/firebug-1.7.0-fx.xpi?src=api</install>
+  <install hash="sha256:cd177b8b0349da9a430f6cdd52bd6d259f41dcc5869f99c8317d72606e14a7a4" os="" size="1318912" status="Beta">
+      https://addons.allizom.org/firefox/downloads/file/114815/firebug-1.7X.0b4-fx.xpi?src=api
+    </install>
+    <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/firebug/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="10.00">
+            $10.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/firebug/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>If you have any problems, please read the Firebug FAQ.
+
+&lt;a href="http://outgoing.mozilla.org/v1/66081b6c09e8af4862a003442794f2d2c2bc9096/http%3A//getfirebug.com/wiki/index.php/FAQ"&gt;http://getfirebug.com/wiki/index.php/FAQ&lt;/a&gt;
+</developer_comments>
+    <reviews num="1012">
+      https://addons.allizom.org/en-us/firefox/addon/firebug/reviews/?src=api
+    </reviews>
+    <total_downloads>34444644</total_downloads>
+    <weekly_downloads>335138</weekly_downloads>
+    <daily_users>2122259</daily_users>
+    <created epoch="1137054450">
+      2006-01-12T08:27:30Z
+    </created>
+    <last_updated epoch="1300778385">
+      2011-03-22T07:19:45Z
+    </last_updated>
+    <homepage>http://getfirebug.com/</homepage>
+    <support>http://getfirebug.com</support></addon>
+<addon id="10868">
+  <name>Firefox Sync</name>
+  <type id="1">Extension</type>
+  <guid>{340c2bbc-ce74-4362-90b5-7c26312808ef}</guid>
+  <version>1.7</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5133025">
+      <name>Mozilla Labs</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/5133025/?src=api</link>
+    </author>      </authors>
+  <summary>Free browser add-on that lets you stay in sync with your Firefox. Access your history, passwords, bookmarks and even open tabs across all your devices.
+Note: Easy setup requires the latest Firefox Beta and is not available for the add-on.</summary>
+
+  <description>&lt;strong&gt;Stay in Sync With Your Firefox&lt;/strong&gt;
+
+&lt;strong&gt;Why Sync Up?&lt;/strong&gt;
+
+&lt;strong&gt;Get Up and Go&lt;/strong&gt;
+
+Looking at driving directions or reservation times on your desktop but need to
+leave in a hurry? Just get up and go and have your history and open tabs
+waiting for you on your mobile phone. Or, stop your work and pick up where you
+left off on your home computer.
+
+
+&lt;strong&gt;Never Start From Scratch&lt;/strong&gt;
+
+Get a new computer or phone, but always have your Firefox. Don't worry about
+resetting passwords or retyping long and painful URLs that you've already
+visited. Firefox Sync saves your bookmarks, passwords and form data so you can
+hit the ground running at your desk or on the go.
+
+
+&lt;strong&gt;Security&lt;/strong&gt;
+
+Your information is encrypted so only you can access it when you enter your
+Sync Key. Firefox puts security as a top priority and syncing is no exception.
+
+* Note: The initial sync after you create an account may take some time to complete. Upon the initial sync completion, you will be able to access your data from other computers and devices.</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/10868-32.png?modified=1299707408</icon>
+  <compatible_applications><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.0a3</min_version>
+      <max_version>2.1b1</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Mobile</name>
+      <application_id>60</application_id>
+      <min_version>1.0b6pre</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/30/30019.png?src=api&amp;modified=1275071306
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/30/30019.png?src=api&amp;modified=1275071306
+      </thumbnail><caption>Firefox Sync Logo</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/30/30487.png?src=api&amp;modified=1267147476
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/30/30487.png?src=api&amp;modified=1267147476
+      </thumbnail></preview></previews><rating>2</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/firefox-sync/?src=api</learnmore><install hash="sha256:18c10c68382d01f9d2b2506e9d0bab275514184d0550a3027c26aaa798617667" os="ALL" size="612352">https://addons.allizom.org/firefox/downloads/file/113706/firefox_sync-1.7-sm+fn+fx.xpi?src=api</install>
+  <developer_comments>&lt;strong&gt;Note: &lt;strong&gt; Easy setup requires the latest Firefox Beta and is not available for the add-on. You can download the latest Beta from &lt;a href="http://outgoing.mozilla.org/v1/a0608f315091d76dca63538d42cb440562b6b52c/http%3A//firefox.com/beta."&gt;http://firefox.com/beta.&lt;/a&gt;
+&lt;/strong&gt;&lt;/strong&gt;</developer_comments>
+    <reviews num="1182">
+      https://addons.allizom.org/en-us/firefox/addon/firefox-sync/reviews/?src=api
+    </reviews>
+    <total_downloads>5691231</total_downloads>
+    <weekly_downloads>104663</weekly_downloads>
+    <daily_users>234860</daily_users>
+    <created epoch="1235461397">
+      2009-02-24T07:43:17Z
+    </created>
+    <last_updated epoch="1299707258">
+      2011-03-09T21:47:38Z
+    </last_updated>
+    <homepage>http://www.firefox.com/sync</homepage>
+    <support>http://support.mozilla.com/kb/What+is+Firefox+Sync</support></addon>
+<addon id="6366">
+  <name>FireGestures</name>
+  <type id="1">Extension</type>
+  <guid>firegestures@xuldev.org</guid>
+  <version>1.6.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="256">
+      <name>Gomita</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/256/?src=api</link>
+    </author>      </authors>
+  <summary>A customizable mouse gestures extension which enables to execute various commands and user scripts with five types of gestures.</summary>
+
+  <description>You can execute various commands and user scripts with five types of mouse gestures:
+ - Mouse Gestures (Move mouse with holding right-click)
+ - Wheel Gestures (Scroll wheel with holding right-click)
+ - Rocker Gestures (Left-click with holding right-click and vice versa)
+ - Keypress Gestures (Mouse gesture with holding Ctrl / Shift key)
+ - Tab Wheel Gestures (Scrolling wheel on the tab bar)
+
+Additionally, you can install and make your own scripts to add functions. For more details, please visit the homepage.
+&lt;a href="http://outgoing.mozilla.org/v1/08d09cadadfed1934a5de5a1387c088c98b1f815/http%3A//www.xuldev.org/firegestures/"&gt;http://www.xuldev.org/firegestures/&lt;/a&gt;</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/6366-32.png?modified=1301357645</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/51/51401.png?src=api&amp;modified=1291138538
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/51/51401.png?src=api&amp;modified=1291138538
+      </thumbnail><caption>Mouse Gesture</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/51/51402.png?src=api&amp;modified=1291138538
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/51/51402.png?src=api&amp;modified=1291138538
+      </thumbnail><caption>Options (1)</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/51/51403.png?src=api&amp;modified=1291138538
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/51/51403.png?src=api&amp;modified=1291138538
+      </thumbnail><caption>Options (2)</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/51/51404.png?src=api&amp;modified=1291138538
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/51/51404.png?src=api&amp;modified=1291138538
+      </thumbnail><caption>Options (3)</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/firegestures/?src=api</learnmore><install hash="sha256:86793fdd11e9cb0c240d13b235a50b2d0bb5eeaae559928e9f6d33a34b879ad3" os="ALL" size="83968">https://addons.allizom.org/firefox/downloads/file/115076/firegestures-1.6.2-fx.xpi?src=api</install>
+  <install hash="sha256:ec245135eccc16327e6d457cafb17ff37d163b171b9a91ab27335fa558a71ee1" os="" size="83968" status="Beta">
+      https://addons.allizom.org/firefox/downloads/file/116044/firegestures-1.6.3b1-fx.xpi?src=api
+    </install>
+    <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/firegestures/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="2.99">
+            $2.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/firegestures/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments/>
+    <reviews num="425">
+      https://addons.allizom.org/en-us/firefox/addon/firegestures/reviews/?src=api
+    </reviews>
+    <total_downloads>6480753</total_downloads>
+    <weekly_downloads>96562</weekly_downloads>
+    <daily_users>514175</daily_users>
+    <created epoch="1200732213">
+      2008-01-19T08:43:33Z
+    </created>
+    <last_updated epoch="1301357602">
+      2011-03-29T00:13:22Z
+    </last_updated>
+    <homepage>http://www.xuldev.org/firegestures/</homepage>
+    <support>http://www.xuldev.org/firegestures/</support></addon>
+<addon id="684">
+  <name>FireFTP</name>
+  <type id="1">Extension</type>
+  <guid>{a7c6cf7f-112c-4500-a7ea-39801a327e5f}</guid>
+  <version>1.99.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="167">
+      <name>Mime Čuvalo</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/167/?src=api</link>
+    </author>      </authors>
+  <summary>FireFTP is a free, secure, cross-platform FTP/SFTP client for Mozilla Firefox which provides easy and intuitive access to FTP/SFTP servers.</summary>
+
+  <description>Along with transferring your files quickly and efficiently, FireFTP also includes more advanced features such as: directory comparison, syncing directories while navigating, SFTP, SSL encryption, search/filtering, integrity checks, remote editing, drag &amp;amp; drop, file hashing, and much more!</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/684-32.png?modified=1300808885</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b1</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/15/15960.png?src=api&amp;modified=1187953401
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/15/15960.png?src=api&amp;modified=1187953401
+      </thumbnail></preview><preview position="1">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/9/9570.png?src=api&amp;modified=0
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/9/9570.png?src=api&amp;modified=0
+      </thumbnail><caption>Manage files with ease</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/15/15919.png?src=api&amp;modified=1187727246
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/15/15919.png?src=api&amp;modified=1187727246
+      </thumbnail></preview></previews><rating>4</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/fireftp/?src=api</learnmore><install hash="sha256:7ada062b232b12f758533af470b36dc97b8cdf6aa9a48a66ba997ef1ce961146" os="ALL" size="327680">https://addons.allizom.org/firefox/downloads/file/114586/fireftp-1.99.2-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/fireftp/contribute/?src=api</link>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/fireftp/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Homepage: &lt;a href="http://outgoing.mozilla.org/v1/0a467c4f0dfd6e9a726b92a27055a57215057653/http%3A//fireftp.mozdev.org"&gt;http://fireftp.mozdev.org&lt;/a&gt;
+
+Other Languages and Versions: &lt;a href="http://outgoing.mozilla.org/v1/e67c79ea076c464e6d4aa367328dbb0251480dd5/http%3A//fireftp.mozdev.org/all.html"&gt;http://fireftp.mozdev.org/all.html&lt;/a&gt;</developer_comments>
+    <reviews num="587">
+      https://addons.allizom.org/en-us/firefox/addon/fireftp/reviews/?src=api
+    </reviews>
+    <total_downloads>18488800</total_downloads>
+    <weekly_downloads>93589</weekly_downloads>
+    <daily_users>1241712</daily_users>
+    <created epoch="1115364095">
+      2005-05-06T07:21:35Z
+    </created>
+    <last_updated epoch="1300808862">
+      2011-03-22T15:47:42Z
+    </last_updated>
+    <homepage>http://fireftp.mozdev.org</homepage>
+    <support>http://fireftp.mozdev.org/help.html</support></addon>
+<addon id="188421">
+  <name>AddonFox - Best Firefox Addons!</name>
+  <type id="1">Extension</type>
+  <guid>{ad48108d-92a6-4eb9-87e4-978aca1dbae4}</guid>
+  <version>1.1.7</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="2655636">
+      <name>Linkular LLC</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/2655636/?src=api</link>
+    </author>      </authors>
+  <summary>Automatically install the best Firefox addons! Includes over one hundred hand-picked addons from the following categories: Customization, Downloads, Fun, Languages, Media, Programming, Security, Privacy, Social, and Visual. Easily choose which addons you want and get them installed all at once.</summary>
+
+  <description>AddonFox is an automatic installer that let's you choose which addons you want from the categories that interest you and then automatically installs all of the addons at once. Over one hundred hand picked addons carefully chosen with improved descriptions. Easily boost your Firefox with the best Firefox addons.
+
+Feast your eyes on this extensive collection of outstanding addons, conveniently organized in categories: Customization, Downloads, Fun, Languages, Media, Programming, Security, Privacy, Social and Visual.
+
+&lt;b&gt;Main Features&lt;/b&gt;
+✔ Multiple addons are installed automatically according to your choice (We have over a hundred in the collection)
+✔ Each addon is accompanied by a concise description and a link for more information
+✔ You can personalize AddonFox by adding or removing addons after initial installation
+✔ Many addons are configurable for a better user experience
+ 
+When initially installing AddonFox, not all the addons included are on by default. We started you off with our editors' choices but you can always add or remove any addon to suit your personal needs.
+
+
+The following categories and addons are included:
+
+&lt;strong&gt;Customization&lt;/strong&gt;
+✔ &lt;b&gt;Add to Search Bar&lt;/b&gt; - Make any pages' search functionality available in the Search Bar
+✔ &lt;b&gt;Autofill Forms&lt;/b&gt; - Enables you to fill out web forms with one click or a keyboard shortcut
+✔ &lt;b&gt;AutoPager&lt;/b&gt; - Automatically loads next pages when you reach the end of a page
+✔ &lt;b&gt;Firefox Sync&lt;/b&gt; - Access your history, passwords, bookmarks, and open tabs across your devices
+✔ &lt;b&gt;Google Shortcuts&lt;/b&gt; - Display all of your Google Services as buttons anywhere you like
+✔ &lt;b&gt;Greasemonkey&lt;/b&gt; - Customize any site using thousands of user scripts
+✔ &lt;b&gt;KwiClick&lt;/b&gt; - Delivers search results in a small popup window for any selected text
+✔ &lt;b&gt;Menu Editor&lt;/b&gt; - Rearrange menu items in the context menu and the main menu bar
+✔ &lt;b&gt;New Tab King&lt;/b&gt; - Adds most visited sites, recently closed tabs, and suggested sites to new tabs
+✔ &lt;b&gt;Organize Search Engines&lt;/b&gt; - Organize your search engines with separators and folders
+✔ &lt;b&gt;Organize Status Bar&lt;/b&gt; - Organize your status bar icons
+✔ &lt;b&gt;QuickJava&lt;/b&gt; - Quick enable and disable of Java, Javascript, Flash, Silverlight and images
+✔ &lt;b&gt;Samfind Bookmarks Bar&lt;/b&gt; - Quickest, easiest way to access your favorite websites
+✔ &lt;b&gt;Speed Dial&lt;/b&gt; - Direct access to your most visited websites
+✔ &lt;b&gt;Tab Mix Plus&lt;/b&gt; - Duplicate tabs, control tab focus, undo closed tabs and windows, etc.
+
+&lt;strong&gt;Downloads&lt;/strong&gt;
+✔ &lt;b&gt;Download Manager Tweak&lt;/b&gt; - Open the download manager in a tab or sidebar, and get more info
+✔ &lt;b&gt;Download Statusbar&lt;/b&gt; - View and manage downloads from a tidy statusbar
+✔ &lt;b&gt;DownThemAll&lt;/b&gt; - Download manager and accelerator
+✔ &lt;b&gt;NetVideoHunter&lt;/b&gt; - Download videos and music from video sites like Youtube
+✔ &lt;b&gt;SkipScreen&lt;/b&gt; - Skips unnecessary pages on sites like Rapidshare, Megaupload, zShare, etc.
+
+&lt;strong&gt;Fun&lt;/strong&gt;
+✔ &lt;b&gt;Destroy the Web&lt;/b&gt; - Turn any webpage into a shoot-em up video game
+✔ &lt;b&gt;FootieFox&lt;/b&gt; - Live soccer scores for over 200 leagues and cups of 60 countries
+✔ &lt;b&gt;Kidoz TV&lt;/b&gt; - Turn your browser into a safe kids Web TV, safe easy and fun
+✔ &lt;b&gt;KidZui&lt;/b&gt; - Turns Firefox into fun, kid-safe browser and online playground for kids 3-12
+✔ &lt;b&gt;Puzzle&lt;/b&gt; - Turn any image to puzzle pieces and play
+✔ &lt;b&gt;StumbleUpon&lt;/b&gt; - Get random websites suited to your tastes with one click
+✔ &lt;b&gt;Zoodles&lt;/b&gt; - Turn Firefox into a safe, virtual playground for kids 3-8
+
+&lt;strong&gt;General&lt;/strong&gt;
+✔ &lt;b&gt;Billeo&lt;/b&gt; - Flags your search results where discounts and promotions are available
+✔ &lt;b&gt;Context Search&lt;/b&gt; - Changes the context menu search into a menu with installed search engines
+✔ &lt;b&gt;Feedly&lt;/b&gt; - Organizes your favorite sources in a magazine-like start page
+✔ &lt;b&gt;Forecastfox&lt;/b&gt; - Adds live international weather forecast icons to the statusbar
+✔ &lt;b&gt;FoxClocks&lt;/b&gt; - Puts small world clocks in your statusbar
+✔ &lt;b&gt;Linkification&lt;/b&gt; - Converts text links into genuine, clickable links
+✔ &lt;b&gt;MyBookmarks&lt;/b&gt; - Creates a formatted page from bookmarks
+✔ &lt;b&gt;ReloadEvery&lt;/b&gt; - Reloads web pages every so many seconds or minutes
+✔ &lt;b&gt;ReminderFox&lt;/b&gt; - Displays and manages lists of reminders and ToDo's
+✔ &lt;b&gt;Resurrect Pages&lt;/b&gt; - When going to a missing page, easily search for cached version of it
+
+&lt;strong&gt;Languages&lt;/strong&gt;
+✔ &lt;b&gt;Converter&lt;/b&gt; - Contextual unit, timezone, and currency converter on any web site
+✔ &lt;b&gt;Dictionary Switcher&lt;/b&gt; - Switch between installed dictionaries and the current one in the statusbar
+✔ &lt;b&gt;FoxLingo&lt;/b&gt; - Web page and text translator, dictionary, grammar checker, text-to-speech, etc.
+✔ &lt;b&gt;Quick Locale Switcher&lt;/b&gt; - Switch Firefox default language
+
+&lt;strong&gt;Media&lt;/strong&gt;
+✔ &lt;b&gt;Bargain Book Mole&lt;/b&gt; - Find the best book prices from 20,000+ merchants on the top book selling sites
+✔ &lt;b&gt;Cooliris&lt;/b&gt; - Scroll an infinite 3D Wall of content from Facebook, Google, YouTube, Flickr, etc.
+✔ &lt;b&gt;ImageZoom&lt;/b&gt; - Adds zoom and rotation functionality for images
+✔ &lt;b&gt;&lt;a href="http://outgoing.mozilla.org/v1/5fca7fd82b7188d804f46a87105fe21ce16ba5de/http%3A//Fire.fm" rel="nofollow"&gt;Fire.fm&lt;/a&gt;&lt;/b&gt; - &lt;a href="http://outgoing.mozilla.org/v1/5fca7fd82b7188d804f46a87105fe21ce16ba5de/http%3A//Fire.fm" rel="nofollow"&gt;Fire.fm&lt;/a&gt; gives you access to the extensive music library on &lt;a href="http://outgoing.mozilla.org/v1/5718aab3f1f2c4c1ada4f9ceaf8188ab81429e2e/http%3A//Last.fm" rel="nofollow"&gt;Last.fm&lt;/a&gt;
+✔ &lt;b&gt;FireShot&lt;/b&gt; - Creates screenshots of web pages with editing and annotation tools
+✔ &lt;b&gt;Flash Game Maximizer&lt;/b&gt; - Click a button or hit the hot-key to maximize (almost) any Flash content
+✔ &lt;b&gt;FlashVideoReplacer&lt;/b&gt; - Replace embedded flash videos with mplayer compatible videos
+✔ &lt;b&gt;FoxyTunes&lt;/b&gt; - Control almost any media player and find lyrics, covers, videos, bios, etc.
+✔ &lt;b&gt;MediaPlayerConnectivity&lt;/b&gt; - Launch online videos in an external application
+✔ &lt;b&gt;Picnik&lt;/b&gt; - Add a menu options and a toolbar icon for editing images online
+✔ &lt;b&gt;Screengrab&lt;/b&gt; - Save webpages as images (saves an entire page, just a selection, or a frame)
+✔ &lt;b&gt;TinEye Reverse Image Search&lt;/b&gt; - Find where an image came from and if it has a better version
+✔ &lt;b&gt;TweakMDB&lt;/b&gt; - The Ultimate IMDB Enhancer, instantly add many tweaks to &lt;a href="http://outgoing.mozilla.org/v1/ae16ac2dce30d145217b2511f8b96fb4cd1f3f1c/http%3A//IMDB.com" rel="nofollow"&gt;IMDB.com&lt;/a&gt;
+✔ &lt;b&gt;TweakTube&lt;/b&gt; - The Ultimate YouTube Enhancer, instantly add many tweaks to YouTube
+✔ &lt;b&gt;VideoSurf&lt;/b&gt; - Get visual video summaries and related videos on Twitter, Google, YouTube, etc.
+
+&lt;strong&gt;Programming&lt;/strong&gt;
+✔ &lt;b&gt;Addon Developer Helper&lt;/b&gt; - Restart Firefox, restart and clear XPCOM cache, or restart chrome
+✔ &lt;b&gt;Console2&lt;/b&gt; - Improves the JavaScript console with filtering, removing duplicates, and more
+✔ &lt;b&gt;Extended Statusbar&lt;/b&gt; - A Statusbar with speed, percentage, time and loaded size
+✔ &lt;b&gt;Firebug&lt;/b&gt; - Edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+✔ &lt;b&gt;FireFTP&lt;/b&gt; - FTP client
+✔ &lt;b&gt;FoxyProxy&lt;/b&gt; - An advanced proxy management tool
+✔ &lt;b&gt;HttpFox&lt;/b&gt; - HTTP analyzer
+✔ &lt;b&gt;IE Tab&lt;/b&gt; - View sites in Internet Explorer within a Firefox tab
+✔ &lt;b&gt;Nightly Tester Tools&lt;/b&gt; - Use addons that don't support the newest Firefox version
+✔ &lt;b&gt;Pixel Perfect&lt;/b&gt; - Overlay a webpage image on top of an actual webpage (requires Firebug)
+✔ &lt;b&gt;SQLite Manager&lt;/b&gt; - Manage any SQLite database on your computer
+✔ &lt;b&gt;Web Developer&lt;/b&gt; - Adds a menu and a toolbar with various web developer tools
+✔ &lt;b&gt;YSlow&lt;/b&gt; - Analyzes web pages and why they're slow based on Yahoo!'s rules
+
+&lt;strong&gt;Security &amp;amp; Privacy&lt;/strong&gt;
+✔ &lt;b&gt;Adblock Plus&lt;/b&gt; - Blocks ads automatically on any web page
+✔ &lt;b&gt;BetterPrivacy&lt;/b&gt; - A safeguard which protects from LSO's on Google, YouTube, Ebay, etc.
+✔ &lt;b&gt;BlockSite&lt;/b&gt; - BlockSite is an extension, which automagically blocks websites of your choice
+✔ &lt;b&gt;BrowserProtect&lt;/b&gt; - Protect your browser against homepage and search hijacks
+✔ &lt;b&gt;Flashblock&lt;/b&gt; - Blocks Flash from automatically playing
+✔ &lt;b&gt;Ghostery&lt;/b&gt; - Protect your privacy, see who's tracking your web browsing and block them
+✔ &lt;b&gt;LastPass Password Manager&lt;/b&gt; - Online password manager and form filler
+✔ &lt;b&gt;LinkExtend&lt;/b&gt; - Provides meta-site-ratings for computer safety, child safety, popularity, etc.
+✔ &lt;b&gt;NoScript&lt;/b&gt; - Allow active content (like Javascript) to run only from sites you trust
+✔ &lt;b&gt;Password Exporter&lt;/b&gt; - Export your saved passwords to XML or CSV files that can be imported
+✔ &lt;b&gt;ProCon&lt;/b&gt; - Filter web pages containing explicit content based on text on websites
+✔ &lt;b&gt;Show My Password&lt;/b&gt; - Shows your passwords in readable letters
+✔ &lt;b&gt;Tamper Data&lt;/b&gt; - Use tamperdata to view and modify HTTP/HTTPS headers and post parameters
+
+&lt;strong&gt;Social&lt;/strong&gt;
+✔ &lt;b&gt;AddThis&lt;/b&gt; - Share any page using social networking, bookmarking, blogging, and e-mail services
+✔ &lt;b&gt;Better Gmail&lt;/b&gt; - Extra features for Gmail including hierarchical labels, attachment icons, and more
+✔ &lt;b&gt;&lt;a href="http://outgoing.mozilla.org/v1/ed13067f53cf3e6ff0a46dd3ddb1ba3a7e0df261/http%3A//Boo.ly" rel="nofollow"&gt;Boo.ly&lt;/a&gt;&lt;/b&gt; - Adds coupons, money saving deals, and price comparison to search results
+✔ &lt;b&gt;ChatZilla&lt;/b&gt; - A clean, easy to use and highly extensible Internet Relay Chat (IRC) client
+✔ &lt;b&gt;Integrated Gmail&lt;/b&gt; - Combines Gmail with Google Calendar, Google Reader, Gmail Labs, and more
+✔ &lt;b&gt;Facebook Like&lt;/b&gt; - Share web pages you like and see how many people like the page you are on
+✔ &lt;b&gt;Tweetbeat Firsthand&lt;/b&gt; - Brings in recent tweets from people and groups mentioned in the page you're on
+✔ &lt;b&gt;TwitterBar&lt;/b&gt; - Post to Twitter from your address bar
+✔ &lt;b&gt;WebMail Notifier&lt;/b&gt; - Checks your webmail accounts and notifies the number of unread emails
+
+&lt;strong&gt;Visual&lt;/strong&gt;
+✔ &lt;b&gt;ColorfulTabs&lt;/b&gt; - Colors every tab in a different color and makes them easy to distinguish
+✔ &lt;b&gt;Fission&lt;/b&gt; - Combines address bar and progress bar (Safari style)
+✔ &lt;b&gt;FoxTab&lt;/b&gt; - Flip between open tabs with a 3D display
+✔ &lt;b&gt;Hide Caption Titlebar Plus&lt;/b&gt; - Maximize screen space by removing the Firefox window title-bar
+✔ &lt;b&gt;NoSquint&lt;/b&gt; - Change zoom levels and color settings for all sites or per site
+✔ &lt;b&gt;Personas Plus&lt;/b&gt; - Skins for Firefox (over 60,000 designs)
+✔ &lt;b&gt;Readability&lt;/b&gt; - Makes reading on the Web better by removing clutter around what you're reading
+✔ &lt;b&gt;Searchbar Autosizer&lt;/b&gt; - Autosizes the searchbar as you type
+✔ &lt;b&gt;Smart Bookmarks Bar&lt;/b&gt; - Hide bookmark names from the bookmark bar
+✔ &lt;b&gt;Smart Stop/Reload&lt;/b&gt; - Combines the Stop and Reload toolbar buttons
+✔ &lt;b&gt;SmoothWheel&lt;/b&gt; - Scrolls the page smoothly when scrolling the mouse wheel
+✔ &lt;b&gt;Stylish&lt;/b&gt; - Install user generated themes and skins for any website
+✔ &lt;b&gt;Tab Progress Bar&lt;/b&gt; - Provides a progress meter for each tab</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/188421-32.png?modified=1301355369</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>1.5</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46942.png?src=api&amp;modified=1277888860
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46942.png?src=api&amp;modified=1277888860
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46943.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46943.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46944.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46944.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46945.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46945.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46946.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46946.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46947.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46947.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46948.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46948.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46949.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46949.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46950.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46950.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46951.png?src=api&amp;modified=1277859847
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46951.png?src=api&amp;modified=1277859847
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46952.png?src=api&amp;modified=1277859848
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46952.png?src=api&amp;modified=1277859848
+      </thumbnail></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46953.png?src=api&amp;modified=1277859848
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46953.png?src=api&amp;modified=1277859848
+      </thumbnail></preview></previews><rating>5</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/addonfox-best-firefox-addons/?src=api</learnmore><install hash="sha256:1c675167f6b0b258b06e319b7bf3718608534a5838786b840a5fa7ab17fd30db" os="ALL" size="286720">https://addons.allizom.org/firefox/downloads/file/114849/addonfox_best_firefox_addons-1.1.7-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/addonfox-best-firefox-addons/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/addonfox-best-firefox-addons/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>☛ Donate using &lt;a href="http://outgoing.mozilla.org/v1/e4bd8acfa1efda792ad5bf404216a5cb74bf0b56/http%3A//www.addonfox.com/donate/%3Fsrc%3Dmozilla"&gt;Paypal or Credit Card&lt;/a&gt;
+</developer_comments>
+    <reviews num="12">
+      https://addons.allizom.org/en-us/firefox/addon/addonfox-best-firefox-addons/reviews/?src=api
+    </reviews>
+    <total_downloads>733691</total_downloads>
+    <weekly_downloads>75751</weekly_downloads>
+    <daily_users>32072</daily_users>
+    <created epoch="1277858296">
+      2010-06-30T00:38:16Z
+    </created>
+    <last_updated epoch="1301355252">
+      2011-03-28T23:34:12Z
+    </last_updated>
+    <homepage>http://www.addonfox.com/</homepage>
+    <support>http://www.addonfox.com/contact/</support></addon>
+<addon id="3863">
+  <name>iMacros for Firefox</name>
+  <type id="1">Extension</type>
+  <guid>{81BF1D23-5F17-408D-AC6B-BD6DF7CAF670}</guid>
+  <version>7.1.1.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="69982">
+      <name>iOpus</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/69982/?src=api</link>
+    </author>      </authors>
+  <summary>Automate Firefox. Record and replay repetitious work. If you love the Firefox web browser, but are tired of repetitive tasks like visiting the same sites every days, filling out forms, and remembering passwords, then iMacros for Firefox is the solution you’ve been dreaming of! ***Whatever you do with Firefox, iMacros can automate it.***</summary>
+
+  <description>iMacros was designed to automate the most repetitious tasks on the web. If there’s an activity you have to do repeatedly, just record it in iMacros. The next time you need to do it, the entire macro will run at the click of a button! With iMacros, you can quickly and easily fill out web forms, remember passwords, create a webmail notifier, download information from other sites, scrape the Web (get data from multiple sites), and more. You can keep the macros on your computer for your own use, or share them with others by embedding them on your homepage, blog, company Intranet or any social bookmarking service. The uses are limited only by your imagination! 
+
+Here are just a few examples of how you can use iMacros to automate your web browser.
+ 
+(1) Form Filler &amp;amp; Password Manager
+
+With iMacros for Firefox, you no longer need to check the same sites every day, remembering passwords, and filling out web forms. iMacros is the only form filler that can autofill web forms that stretch over several pages. All information is stored in human-readable, plain text files that can be easily edited. Passwords are stored securely with 256-Bit AES encryption. Users memorize only one master password and iMacros remembers all the others, providing a truly automated login experience, that beats the Solution to Enterprise Single Sign-On (SSO).
+
+(2) Automated Download &amp;amp; Upload
+
+iMacros can automate the download of images, files, or entire pages (with or without images). In the other direction, it can automate the upload of data to websites. You can use variables inside the macros and import data from CSV files. iMacros includes a user agent switcher, PDF download and Flash, and ad- and image-blocking functions. When combined and controlled with Javascript, the recorded Macros can script even very complex tasks.
+
+(3) Data Extraction, Web Scraping/Mining &amp;amp; Enterprise Data Mash-Ups
+
+The iMacros EXTRACT command automatically reads data from a website and exports it to CSV files – the exact opposite of filling out forms. iMacros includes full Unicode support and works with every language, including multi-byte languages such as Chinese. You can use this feature to download stock quotes, gather and compare web store prices, and more.
+
+(4) Web Testing
+
+Web professionals can use iMacros for functional, performance, and regression testing of web applications. The built-in STOPWATCH command captures precise web page response times. iMacros also includes support for many AJAX elements. 
+
+(5) Social Scripting (Social Bookmarking)
+
+Sharing your favorite iMacros with friends and colleagues is easy. Simply right-click the macro to add it as a bookmark, or select "Run Everywhere" and embed the complete macro in a simple link. You can send the link to others, or embed it on your homepage, blog, or company intranet. Instead of telling your site visitors how to fill out a form, let iMacros do it for them. All the information is stored inside the link as a text string, with nothing stored on our servers, which is why iMacros work on intranets, too. See an example at del.icio.us/imacros/imacro. 
+
+(6) Other Uses
+
+For more ideas on how to use iMacros, please visit www.iopus.com/imacros/firefox and/or our active support forum at forum.iopus.com. 
+
+iMacros is extremely versatile and can be combined with other extensions such as Greasemonkey, Web Developer, Firebug, Stylish, Download Statusbar, NoScript, PDF Download, Foxmarks, Fasterfox,  All-in-One Sidebar, Megaupload, Foxyproxy, Flashblock and Adblock.
+
+iMacros for Firefox is free for personal and commercial use. Download the add-on today to start simplifying your Web tasks and sharing your macros with others!
+
+Whatever you do with Firefox, iMacros can automate it.</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/3863-32.png?modified=1299446793</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.0</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/10/10472.png?src=api&amp;modified=0
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/10/10472.png?src=api&amp;modified=0
+      </thumbnail><caption>iMacros for Firefox</caption></preview><preview position="1">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/10/10446.png?src=api&amp;modified=0
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/10/10446.png?src=api&amp;modified=0
+      </thumbnail><caption>iMacros Sidebar (Press F8 to show or hide it)</caption></preview><preview position="1">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/10/10654.png?src=api&amp;modified=0
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/10/10654.png?src=api&amp;modified=0
+      </thumbnail><caption>Right-click to delete or rename the Internet macros</caption></preview><preview position="1">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/10/10712.png?src=api&amp;modified=0
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/10/10712.png?src=api&amp;modified=0
+      </thumbnail><caption>All activity is recorded in human-readable, html-like commands with full Unicode support.</caption></preview><preview position="1">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/10/10989.png?src=api&amp;modified=1225836919
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/10/10989.png?src=api&amp;modified=1225836919
+      </thumbnail><caption>For maximum security, iMacros uses the Firefox Password Manager and stores passwords with 256-bit AES encryption.</caption></preview><preview position="1">
+      <full type="image/jpeg">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/14/14818.png?src=api&amp;modified=1225836971
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/14/14818.png?src=api&amp;modified=1225836971
+      </thumbnail><caption>Add a reference to iMacros to your bookmarks or create a link with a "built-in" macro. You can email this link to your friends or colleagues and they can run the macro by just clicking on the link.</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/27/27139.png?src=api&amp;modified=1225836784
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/27/27139.png?src=api&amp;modified=1225836784
+      </thumbnail><caption>iMacros on the Mac</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/27/27140.png?src=api&amp;modified=1225837396
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/27/27140.png?src=api&amp;modified=1225837396
+      </thumbnail><caption>Use iMacros as super bookmarks, and automate not only the login but the complete task (login, saving reports, uploading files,...).</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/40/40297.png?src=api&amp;modified=1262391967
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/40/40297.png?src=api&amp;modified=1262391967
+      </thumbnail><caption>iMacros Reviews</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/imacros-for-firefox/?src=api</learnmore><install hash="sha256:18863382a61a0011b1ee3f516295fae66917848d32d579385ca7151aa2a2ad12" os="ALL" size="420864">https://addons.allizom.org/firefox/downloads/file/110413/imacros_for_firefox-7.1.1.2-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/imacros-for-firefox/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="19.99">
+            $19.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/imacros-for-firefox/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>--------------------------------
+FIND A BUG OR NEED HELP? Please post your feedback at &lt;a href="http://outgoing.mozilla.org/v1/e1c3080982d1c5367f19f2affb534d9ca209215c/http%3A//forum.iopus.com/viewforum.php%3Ff%3D11"&gt;http://forum.iopus.com/viewforum.php?f=11&lt;/a&gt; so we can help you, rather than reporting it here.
+--------------------------------</developer_comments>
+    <reviews num="263">
+      https://addons.allizom.org/en-us/firefox/addon/imacros-for-firefox/reviews/?src=api
+    </reviews>
+    <total_downloads>6739957</total_downloads>
+    <weekly_downloads>38665</weekly_downloads>
+    <daily_users>292973</daily_users>
+    <created epoch="1163419517">
+      2006-11-13T12:05:17Z
+    </created>
+    <last_updated epoch="1297280610">
+      2011-02-09T19:43:30Z
+    </last_updated>
+    <homepage>http://www.iopus.com/imacros/firefox/?ref=fxmoz</homepage>
+    <support>http://forum.iopus.com/viewforum.php?f=11</support></addon>
+<addon id="122">
+  <name>Walnut for Firefox</name>
+  <type id="2">Theme</type>
+  <guid>{5A170DD3-63CA-4c58-93B7-DE9FF536C2FF}</guid>
+  <version>1.8.71</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="66">
+      <name>alfredkayser</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/66/?src=api</link>
+    </author>      </authors>
+  <summary>Walnut for a wooden look and feel. Walnut is a complete skin redesign so that all windows, widgets, panels, and even the addons have a wooden look and feel. Supports many extensions. For Firefox 2.0, and 3.0, 3.5, 3.6 and 3.7 nightlies. </summary>
+
+  <description>Walnut is based on icons from art.gnome.org. Includes support for DOMInspector, chatzilla, stumbleupon, downloadstatusbar, fission, forecastfox, downloadmgr, calendar, quicknote, offline, googlebar, MAB, and many more...
+
+I you like this theme, you can use the 'Donate' button on my homepage to show your appreciation!
+
+To uninstall first make the default theme active (or the theme you want to remove) and then do 'uninstall' from the theme manager.
+
+Please don't use the 'review' to report download errors. Download issues are not caused by the theme, but by one of the many AMO download mirrors.
+
+Please don't use the review box for any bug reports. Contact me through the email address provided under the 'Support' heading. Using email is the quickest way to notify me, and generally I will try to make a fix available as quickly as possible.
+</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/122-32.png?modified=1299511145</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>2.0</min_version>
+      <max_version>4.2a1pre</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/0/116.png?src=api&amp;modified=1225206057
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/0/116.png?src=api&amp;modified=1225206057
+      </thumbnail><caption>Thumbnail</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/18/18757.png?src=api&amp;modified=1211721636
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/18/18757.png?src=api&amp;modified=1211721636
+      </thumbnail><caption>Download Manager</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/18/18758.png?src=api&amp;modified=1211721662
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/18/18758.png?src=api&amp;modified=1211721662
+      </thumbnail><caption>Add/Edit Bookmark Panel</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/18/18762.png?src=api&amp;modified=1203930846
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/18/18762.png?src=api&amp;modified=1203930846
+      </thumbnail><caption>Identity Panel</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/46/46789.png?src=api&amp;modified=1277326942
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/46/46789.png?src=api&amp;modified=1277326942
+      </thumbnail><caption>Preview of Firefox 4 functionality, in FF3.7 nightly (23 June 2010): AppMenu, TabsOnTop, Addons Manager, Heads Up Console, and Doorhanger notification</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/walnut-for-firefox/?src=api</learnmore><install hash="sha256:3144906f4f9683afdae6763411b6ff13cd12e8e47b165881e94f65f021be3566" os="ALL" size="761856">https://addons.allizom.org/firefox/downloads/file/113370/walnut_for_firefox-1.8.71-fx.jar?src=api</install>
+  <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/walnut-for-firefox/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="4.99">
+            $4.99
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/walnut-for-firefox/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>To uninstall: first select Walnut as the current theme in the Theme/Addons manager, restart firefox, then uninstall and then restart Firefox.
+
+Please don't use the review box for any bug reports. Contact me through the email address provided under the 'Support' heading. Using email is the quickest way to notify me, and generally I will try to make a fix available as quickly as possible.
+
+Note, as the AMO approval process takes ages, it may be that there is a newer version available as 'experimental' than the one currently displayed. Go to 'View All Versions' (at bottom of this page), and check if there is a newer (experimental) version available there.
+
+&lt;strong&gt;November 24, 2010: 1.8.67 posted for support upto Firefox 4.0 Beta 8 pre. 
+Check 'View all versions' at bottom of page.&lt;/strong&gt;
+
+Greetings, Alfred</developer_comments>
+    <reviews num="167">
+      https://addons.allizom.org/en-us/firefox/addon/walnut-for-firefox/reviews/?src=api
+    </reviews>
+    <total_downloads>4532745</total_downloads>
+    <weekly_downloads>37817</weekly_downloads>
+    <daily_users>176260</daily_users>
+    <created epoch="1088170621">
+      2004-06-25T13:37:01Z
+    </created>
+    <last_updated epoch="1299511093">
+      2011-03-07T15:18:13Z
+    </last_updated>
+    <homepage>https://addons.mozilla.org/en-US/seamonkey/addon/122/developers</homepage>
+    <support>https://addons.mozilla.org/en-US/seamonkey/addon/122/developers</support></addon>
+<addon id="6683">
+  <name>Firecookie</name>
+  <type id="1">Extension</type>
+  <guid>firecookie@janodvarko.cz</guid>
+  <version>1.2.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="857086">
+      <name>Jan Odvarko</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/857086/?src=api</link>
+    </author>      </authors>
+  <summary>Firecookie is an extension for Firebug that makes possible to view and manage cookies in your browser</summary>
+
+  <description>Cookie manager for Firebug. Firebug has to be installed in order to use this extension. Use this extension to create a new cookie, delete existing cookies, see list of cookies for current site, manage cookies permissions and a lot more. Use &lt;a href="http://outgoing.mozilla.org/v1/2f9f3a29e0cc511595b4165f6909a88463ca3bb7/http%3A//code.google.com/p/firecookie/issues/list"&gt;http://code.google.com/p/firecookie/issues/list&lt;/a&gt; to report any issue.
+</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/6683-32.png?modified=1299599713</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.0</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/18/18996.png?src=api&amp;modified=1204922539
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/18/18996.png?src=api&amp;modified=1204922539
+      </thumbnail><caption>List of cookies is displayed within Firebug's UI.</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/18/18997.png?src=api&amp;modified=1204922922
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/18/18997.png?src=api&amp;modified=1204922922
+      </thumbnail><caption>There is a new tab for Cookies within Firebug's UI.</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/18/18998.png?src=api&amp;modified=1204922615
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/18/18998.png?src=api&amp;modified=1204922615
+      </thumbnail><caption>Events are displayed in Firebug's Console tab.</caption></preview><preview position="1">
+      <full type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/19/19004.png?src=api&amp;modified=1204923534
+      </full>
+      <thumbnail type="image/png">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/19/19004.png?src=api&amp;modified=1204923534
+      </thumbnail><caption>Clipboard is also supported.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/firecookie/?src=api</learnmore><install hash="sha256:db7abccd79b55c0b8bd512b9b921d9e19db3483285fe1728c973262df91310b1" os="ALL" size="134144">https://addons.allizom.org/firefox/downloads/file/113498/firecookie-1.2.1-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/firecookie/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="3.00">
+            $3.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/firecookie/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments/>
+    <reviews num="44">
+      https://addons.allizom.org/en-us/firefox/addon/firecookie/reviews/?src=api
+    </reviews>
+    <total_downloads>940210</total_downloads>
+    <weekly_downloads>29358</weekly_downloads>
+    <daily_users>81075</daily_users>
+    <created epoch="1204921427">
+      2008-03-07T20:23:47Z
+    </created>
+    <last_updated epoch="1299599646">
+      2011-03-08T15:54:06Z
+    </last_updated>
+    <homepage>http://www.janodvarko.cz/firecookie</homepage>
+    <support>http://www.janodvarko.cz/firecookie</support></addon>
+<addon id="161670">
+  <name>FlashFirebug</name>
+  <type id="1">Extension</type>
+  <guid>flashfirebug@o-minds.com</guid>
+  <version>2.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="5317052">
+      <name>O-Minds</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/5317052/?src=api</link>
+    </author>      </authors>
+  <summary>Debug ANY AS3 SWF files on the web. Edit properties and inspect elements like you do to HTML. Redirect errors, warnings traces to the extension. This extension requires Firebug extension and Flash Player Debugger.</summary>
+
+  <description>This extension supports Action Script 3 (AS3). This extension requires Firebug and the Flash Player Debugger installed. You can find out more details on the product website at:
+
+&lt;a href="http://outgoing.mozilla.org/v1/0520f9aaddadc28cb0de81829f8dfb6c1d993f90/http%3A//www.o-minds.com/products/flashfirebug" rel="nofollow"&gt;http://www.o-minds.com/products/flashfirebug&lt;/a&gt;
+
+Follow us on twitter for FlashFirebug &lt;a href="http://outgoing.mozilla.org/v1/b0d564dfb2fdd48d2e8b933a06385dfecd0f541e/http%3A//twitter.com/ominds" rel="nofollow"&gt;updates&lt;/a&gt;
+
+Please consider &lt;a href="http://outgoing.mozilla.org/v1/dc9ddfb475ec77402d5d6e4220f58111e302080e/http%3A//www.o-minds.com/node/50%3Fsource=flashfirebug" rel="nofollow"&gt;donating&lt;/a&gt; to further the development of this extension. Sponsorship is also an option, &lt;a href="http://outgoing.mozilla.org/v1/d7bcb5734ee3fd44cc96c44f9dabc9d04e2dc445/http%3A//www.o-minds.com/contact" rel="nofollow"&gt;contact O-Minds&lt;/a&gt; if you're interested in sponsoring this module.</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/161670-32.png?modified=1297707694</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>3.5</min_version>
+      <max_version>3.6.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/54/54017.png?src=api&amp;modified=1297707695
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/54/54017.png?src=api&amp;modified=1297707695
+      </thumbnail><caption>FlashFirebug debugging a youtube video.</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/flashfirebug/?src=api</learnmore><install hash="sha256:1fc9aaa3a2fea1685266fb7820da09ce132ebc40ac89f8e4f9a0ba585e2edd6b" os="ALL" size="223232">https://addons.allizom.org/firefox/downloads/file/111064/flashfirebug-2.0-fx.xpi?src=api</install>
+  <developer_comments/>
+    <reviews num="10">
+      https://addons.allizom.org/en-us/firefox/addon/flashfirebug/reviews/?src=api
+    </reviews>
+    <total_downloads>268215</total_downloads>
+    <weekly_downloads>24035</weekly_downloads>
+    <daily_users>15019</daily_users>
+    <created epoch="1273367099">
+      2010-05-09T01:04:59Z
+    </created>
+    <last_updated epoch="1297705243">
+      2011-02-14T17:40:43Z
+    </last_updated>
+    <homepage>http://www.o-minds.com/products/flashfirebug</homepage>
+    <support>http://www.o-minds.com/products/flashfirebug</support></addon>
+<addon id="290015">
+  <name>Firefox 3 theme for Firefox 4</name>
+  <type id="2">Theme</type>
+  <guid>ffe_ff3ff4@game-point.net</guid>
+  <version>1.0.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="64483">
+      <name>Jeremy Morton</name>
+      <link>https://addons.allizom.org/en-us/firefox/user/64483/?src=api</link>
+    </author>      </authors>
+  <summary>Experience all the benefits of Firefox 4 with the colorful toolbar goodness of Firefox 3!</summary>
+
+  <description>As some people think the default Firefox 4 theme is too 'washed out', this theme brings back the colorful look of the default Firefox 3 theme, in Firefox 4!  This theme is based around the Windows ('winstripe') version of the Firefox 3 theme.</description>
+
+  <icon>https://addons-cdn.allizom.org/en-US/firefox/images/addon_icon/290015-32.png?modified=1300808405</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0b11pre</min_version>
+      <max_version>4.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula/><previews><preview position="0">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/54/54814.png?src=api&amp;modified=1299543482
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/54/54814.png?src=api&amp;modified=1299543482
+      </thumbnail></preview><preview position="1">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/54/54811.png?src=api&amp;modified=1299543482
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/54/54811.png?src=api&amp;modified=1299543482
+      </thumbnail><caption>Firefox 4 in large icons-and-text mode, tabs below.</caption></preview><preview position="2">
+      <full type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/full/54/54812.png?src=api&amp;modified=1299543482
+      </full>
+      <thumbnail type="">
+        https://addons-cdn.allizom.org/img/uploads/previews/thumbs/54/54812.png?src=api&amp;modified=1299543482
+      </thumbnail><caption>Firefox 4 in large icons-only mode, tabs on top.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.allizom.org/en-us/firefox/addon/firefox-3-theme-for-firefox/?src=api</learnmore><install hash="sha256:84f419f0a82e48ee6c23baa92148fe972ee0cb89806fa30660d0b585ed83998e" os="ALL" size="688128">https://addons.allizom.org/firefox/downloads/file/113513/firefox_3_theme_for_firefox_4-1.0.0-fx.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.allizom.org/en-us/firefox/addon/firefox-3-theme-for-firefox/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.allizom.org/en-us/firefox/addon/firefox-3-theme-for-firefox/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments>Please note that I'm aware of the issue where the buttons in the corner don't display when you turn the menu bar off, and this will be fixed in the next update.</developer_comments>
+    <reviews num="34">
+      https://addons.allizom.org/en-us/firefox/addon/firefox-3-theme-for-firefox/reviews/?src=api
+    </reviews>
+    <total_downloads>54456</total_downloads>
+    <weekly_downloads>51075</weekly_downloads>
+    <daily_users>6245</daily_users>
+    <created epoch="1299538905">
+      2011-03-07T23:01:45Z
+    </created>
+    <last_updated epoch="1300789275">
+      2011-03-22T10:21:15Z
+    </last_updated>
+    <homepage>http://ffaddons.game-point.net/ff3ff4/</homepage>
+    <support/></addon>
+</searchresults>
