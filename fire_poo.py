@@ -53,5 +53,5 @@ all_addons = xml_soup.searchresults
 #print xml_soup.find(text='FireGestures').findNext() #gets extenstion tag for FireGestures
 
 #string below gets the id into a string based on the addon name.  
-numeric_id =  xml_soup.find(text='FireGestures').findParent().findParent().attrs[0] "get id for addon name"
-print numeric_id  #will look like this: (u'id', u'6366')
+numeric_id =  xml_soup.find(text='FireGestures').findParent().findParent().attrs[0] #"get id for addon name"
+print  numeric_id[1]  #will look like this: (u'id', u'6366')
