@@ -53,5 +53,16 @@ all_addons = xml_soup.searchresults
 #print xml_soup.find(text='FireGestures').findNext() #gets extenstion tag for FireGestures
 
 #string below gets the id into a string based on the addon name.  
-numeric_id =  xml_soup.find(text='FireGestures').findParent().findParent().attrs[0] #"get id for addon name"
-print  numeric_id[1]  #will look like this: (u'id', u'6366')
+numeric_id_tuple =  xml_soup.find(text='FireGestures').findParent().findParent().attrs[0] #"get id for addon name"
+numeric_id = str( numeric_id_tuple[1] ) #numeric_id is now a string
+
+#print xml_soup.findAll(id=numeric_id)  #prints just the Firegestures xml
+#firegestures_xml = xml_soup.findAll(id=numeric_id)
+firegestures_xml = xml_soup.find(text='Firefox 3 theme for Firefox 4').findParent().findParent()
+print firegestures_xml.version.string 
+
+
+#Here is the code for getting an addon's id field.
+#def get_addon_id(self, addon_name):
+    #numeric_id =  self.parsed_xml.find(text=addon_name).findParent().findParent().attrs[0] #"get id for addon name"
+    #return numeric_id[1]
