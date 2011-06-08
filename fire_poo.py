@@ -61,6 +61,11 @@ numeric_id = str( numeric_id_tuple[1] ) #numeric_id is now a string
 firegestures_xml = xml_soup.find(text='Firefox 3 theme for Firefox 4').findParent().findParent()
 print firegestures_xml.version.string 
 
+try:
+    print xml_soup.find(text='Firepug').findParent().findParent()
+except AttributeError:
+    print ('The addon is not in the results')
+
 
 #Here is the code for getting an addon's id field.
 #def get_addon_id(self, addon_name):
